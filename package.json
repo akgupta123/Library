@@ -10,9 +10,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
-  "author": "Azad Mamun",
+  "author": "AVINASH KUMAR",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -34,6 +34,5 @@
   },
   "devDependencies": {
     "faker": "^4.1.0",
-    "nodemon": "^1.19.4"
   }
 }
