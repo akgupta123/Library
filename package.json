@@ -33,6 +33,6 @@
     "uuid": "^3.3.2"
   },
   "devDependencies": {
-    "faker": "^4.1.0",
+    "faker": "^4.1.0"
   }
 }
